@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Chico trujillo",
+        "nombre" : "La Medallita",
+        "url":"/reproductor//music/CHICO TRUJILLO - LA MEDALLITA_S90S3XIE8zI.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"Chico trujillo",
+        "nombre" : "...",
+        "url":"/reproductor//music/la-escoba.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Chico trujillo",
+        "nombre" : "...",
+        "url":"/reproductor/assets/music/rock/3-devuelveme-a-mi-chica.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"Amar Azul",
+        "nombre" : "Yo me Enamore",
+        "url":"/reproductor//music/Yo Me Enamore_X48mxG8N6CM.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"Amar Azul",
+        "nombre" : "Yo Tomo",
+        "url":"/reproductor//music/Yo Tomo_2Szd5YFooIg.mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"Amar Azul",
+        "nombre" : "Explicale",
+        "url":"/reproductor//music/Explicale_PPLk9L-oBMs.mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"Ke Personaje",
+        "nombre" : "Piel",
+        "url":"/reproductor//music/Tiago PZK, Ke Personajes - Piel (Video Oficial)_DI71FIdguUs.mp3",
+        "duracion":267
+    }
+    ,{
+        "id":8,
+        "playlist":"rock",
+        "artista":"Ke Personaje",
+        "nombre" : "Mojada",
+        "url":"/reproductor//music/Ke Personajes _ Mojada (Video Oficial)_A_9hIL4okUw.mp3",
+        "duracion":267
+    }
+    ,{
+        "id":9,
+        "playlist":"rock",
+        "artista":"Ke Personaje",
+        "nombre" : "Ojitos Rojos",
+        "url":"/reproductor//music/Grupo Frontera x Ke Personajes - OJITOS ROJOS (Video Oficial)_LTE9ktAcSQg.mp3",
+        "duracion":267
+    }
+    ,{
+        "id":10,
+        "playlist":"rock",
+        "artista":"Agrupacion Marilyn",
+        "nombre" : "Bonita",
+        "url":"/reproductor//music/Agrupacion Marilyn - Bonita _ Video Clip_RzfblvcRgmk.mp3",
+        "duracion":267
+    }
+    ,{
+        "id":11,
+        "playlist":"rock",
+        "artista":"Agrupacion Marilyn",
+        "nombre" : "Los Recuerdos",
+        "url":"/reproductor//music/Agrupacion Marilyn - Los Recuerdos_VAK_YZ4Erpg.mp3",
+        "duracion":267
+    }
+    ,{
+        "id":12,
+        "playlist":"rock",
+        "artista":"Agrupacion Marilyn",
+        "nombre" : "Su Florcita",
+        "url":"/reproductor//music/Agrupacion Marilyn - Su florcita _ Video Clip_3oeifHTD1lg.mp3",
+        "duracion":267
+    }
+
+]

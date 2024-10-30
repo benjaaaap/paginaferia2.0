@@ -1,0 +1,104 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"Jere Klein",
+        "nombre" : "X ESO BB",
+        "url":"/reproductor//music/JERE KLEIN & NICKI NICOLE - X ESO BB_ (Video Oficial) _ ENFASIS_s1URBn3PQTI.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"Jere Klein",
+        "nombre" : "CHIKA MALA",
+        "url":"/reproductor//music/JERE KLEIN - CHIKA MALA (VIDEO OFICIAL)_0UnI24pOrV0.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"Jere Klein",
+        "nombre" : "ANDO",
+        "url":"/reproductor//music/JERE KLEIN - ANDO (Video Oficial) _ ENFASIS_LfwVGlW237o.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"Polima Westcoast",
+        "nombre" : "Sextime",
+        "url":"/reproductor//music/Polimá Westcoast, Young Cister, Cris Mj – SEXTIME (Video Oficial)_3PDNTwOhKwo.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":5,
+        "playlist":"estudiar",
+        "artista":"Polima Westcoast",
+        "nombre" : "Te Quiero Ver",
+        "url":"/reproductor//music/Ceaese, Polimá Westcoast, Young Cister - Te Quiero Ver (Video Oficial)_a76lWh5yJCU.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":6,
+        "playlist":"estudiar",
+        "artista":"Polima Westcoast",
+        "nombre" : "Esto No Es Una Cancion..",
+        "url":"/reproductor//music/Polimá Westcoast - Esto No Es Una Canción De Amor (Ft Gianluca & Young Cister) VIDEO OFICIAL_Wj3fn4fgs24.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":7,
+        "playlist":"estudiar",
+        "artista":"Young Cister",
+        "nombre" : "OH LA LA",
+        "url":"/reproductor//music/Young Cister - OH LA LA (Visualizer)_sTWjP4ltpqo.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":8,
+        "playlist":"estudiar",
+        "artista":"Young Cister",
+        "nombre" : "Casi Amor De Verano",
+        "url":"/reproductor//music/Young Cister - Casi Amor De Verano (Video Oficial)_S08wb2oHpLY.mp3",
+        "duracion":211
+    }
+    ,
+    {
+        "id":9,
+        "playlist":"estudiar",
+        "artista":"Young Cister",
+        "nombre" : "Debi Llevarte Flores",
+        "url":"/music/Young Cister, Taiko - DEBI LLEVARTE FLORES (Video Oficial)_bI7kw_5Hk-w.mp3",
+        "duracion":211
+    },    {
+        "id":10,
+        "playlist":"estudiar",
+        "artista":"Cris Mj",
+        "nombre" : "Gata Only",
+        "url":"/reproductor//music/FloyyMenor, Cris MJ - Gata Only_-r687V8yqKY.mp3",
+        "duracion":211
+    }
+    ,    {
+        "id":11,
+        "playlist":"estudiar",
+        "artista":"Cris Mj",
+        "nombre" : "Una Noche En Medellin",
+        "url":"/reproductor//music/Cris MJ - Una Noche En Medellín (Video Oficial)_EaIh7tRqdqM.mp3",
+        "duracion":211
+    }
+    ,    {
+        "id":12,
+        "playlist":"estudiar",
+        "artista":"Cris Mj",
+        "nombre" : "Locula Y Maldad",
+        "url":"/reproductor//music/Cris MJ - Locura y Maldad (Video Oficial)_SVloEI5WB5c.mp3",
+        "duracion":211
+    }
+
+]

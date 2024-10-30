@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Stray Kids",
+        "nombre" : "Maniac",
+        "url":"/reproductor//music/Stray Kids _MANIAC_ M_V_OvioeS1ZZ7o.mp3",
+        "duracion":354
+    },
+    {
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Stray Kids",
+        "nombre" : "Thunderous",
+        "url":"/reproductor//music/Stray Kids _소리꾼(Thunderous)_ M_V_EaswWiwMVs8.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Stray Kids",
+        "nombre" : "God's Menu",
+        "url":"/reproductor//music/Stray Kids _神메뉴(God's Menu)_ M_V_TQTlCHxyuu8.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Twice",
+        "nombre" : "Cheer Up",
+        "url":"/reproductor//music/TWICE _CHEER UP_ M_V_c7rCyll5AeY.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Twice",
+        "nombre" : "Fancy",
+        "url":"/reproductor//music/TWICE _FANCY_ M_V_kOHB85vDuow.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"Twice",
+        "nombre" : "Dance Night Away",
+        "url":"/reproductor//music/TWICE _FANCY_ M_V_kOHB85vDuow.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"TXT",
+        "nombre" : "Blue Hour",
+        "url":"/reproductor//music/TXT (투모로우바이투게더) '5시 53분의 하늘에서 발견한 너와 나' Official MV_Vd9QkWsd5p4.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"TXT",
+        "nombre" : "0X1=LOVESONG",
+        "url":"/reproductor//music/TXT (투모로우바이투게더) '0X1=LOVESONG (I Know I Love You) feat. Seori' Official MV_d5bbqKYu51w.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"TXT",
+        "nombre" : "Sugar Rush Ride",
+        "url":"/reproductor//music/TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV_P9tKTxbgdkk.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"BTS",
+        "nombre" : "Dynamite",
+        "url":"/reproductor//music/BTS (방탄소년단) 'Dynamite' Official MV_gdZLi9oWNZg.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"BTS",
+        "nombre" : "Black Swan",
+        "url":"/reproductor//music/BTS (방탄소년단) 'Black Swan' Official MV_0lapF4DQPKQ.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":1,
+        "playlist":"K-pop",
+        "artista":"BTS",
+        "nombre" : "Boy With Luv",
+        "url":"/reproductor//music/BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV_XsX3ATc3FbA.mp3",
+        "duracion":158
+    }
+
+]

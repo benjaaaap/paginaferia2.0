@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Marisela",
+        "nombre" : "No Puedo Olvidarlo",
+        "url":"/reproductor//music/No puedo olvidarlo _ Marisela _ Letra_fUirCQpEWZo.mp3",
+        "duracion":354
+    },
+    {
+        "id":2,
+        "playlist":"deporte",
+        "artista":"Marisela",
+        "nombre" : "Sin El",
+        "url":"/reproductor//music/Marisela - Sin El_NlXJXSBKyOU.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":3,
+        "playlist":"deporte",
+        "artista":"Marisela",
+        "nombre" : "Enamorada y Herida",
+        "url":"/reproductor//music/Marisela - Enamorada Y Herida_mZDP6PwRlgI.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":4,
+        "playlist":"deporte",
+        "artista":"Juan Gabriel",
+        "nombre" : "Abrázame Muy Fuerte",
+        "url":"/reproductor//music/Juan Gabriel - Abrázame Muy Fuerte (Letra Lyrics)_tqGw-Fe7vZs.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":5,
+        "playlist":"deporte",
+        "artista":"Juan Gabriel",
+        "nombre" : "Hasta que te Conocí",
+        "url":"/reproductor//music/Juan Gabriel - Hasta Que Te Conocí (Letra_Lyrics)_L4-5uWCcTWA.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":6,
+        "playlist":"deporte",
+        "artista":"Juan Gabriel",
+        "nombre" : "El Noa Noa",
+        "url":"/reproductor//music/Juan Gabriel - El Noa Noa (Letra_Lyrics)_5QBkXCEzYo8.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":7,
+        "playlist":"deporte",
+        "artista":"Camilo Sesto",
+        "nombre" : "Vivir asi es morir de amor",
+        "url":"/reproductor//music/Vivir Así Es Morir de Amor_29j07fkzoBg.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":8,
+        "playlist":"deporte",
+        "artista":"Camilo Sesto",
+        "nombre" : "Donde Estés, Con Quien Estés",
+        "url":"/reproductor//music/Camilo Sesto - Donde estés, con quién estés_Vw4oPAFQrag.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":9,
+        "playlist":"deporte",
+        "artista":"Camilo Sesto",
+        "nombre" : "Si me Dejas Ahora",
+        "url":"/reproductor//music/Camilo Sesto - Si Me Dejas Ahora_26xx1iHlGjc.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":10,
+        "playlist":"deporte",
+        "artista":"Elvis Presley",
+        "nombre" : "Joilhouse Rock",
+        "url":"/reproductor//music/Elvis Presley - Jailhouse Rock (Lyrics)_eA-x0ofRzJw.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":11,
+        "playlist":"deporte",
+        "artista":"Elvis Presley",
+        "nombre" : "Can't Help falling in Love",
+        "url":"/reproductor//music/Elvis Presley - Can't Help Falling in Love (Lyrics)_MqazV4hbu8E.mp3",
+        "duracion":158
+    }
+    ,{
+        "id":12,
+        "playlist":"deporte",
+        "artista":"Elvis Presley",
+        "nombre" : "Suspicious Minds",
+        "url":"/reproductor//music/Elvis Presley - Suspicious Minds (Lyrics)_qhapHLkID4k.mp3",
+        "duracion":158
+    }
+
+]
